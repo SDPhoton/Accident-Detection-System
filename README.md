@@ -1,1 +1,1 @@
-# Accident-Detection-System
+# CNN-based Vehicle Collision Detection and Emergency Response System
